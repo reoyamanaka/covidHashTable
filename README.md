@@ -61,7 +61,7 @@
 ## About The Project
 
 <p align="left">
-  <img src="images/covidHashTableDemo.gif" width="461.5" height="330">
+  <img src="images/covidHashTableDemo.gif" width="761.55" height="500">
 </p>
 
 ### Built With
