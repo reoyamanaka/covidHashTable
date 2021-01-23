@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/reoyamanaka/cost_visualizer.git">
+  <a href="https://github.com/reoyamanaka/covidHashTable.git">
     <img src="images/covidHashTable.gif" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,7 +20,7 @@
     <a href="https://github.com/reoyamanaka/covidHashTable.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="#">View Demo</a>
     ·
     <a href="https://github.com/reoyamanaka/covidHashTable/issues">Report Bug</a>
     ·
@@ -97,12 +97,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE -->
 ## Usage
 
-<div align="center">
-  <strong>YouTube Demo</strong><br>
-  <a href="https://youtu.be/yDaQAHXgQ9Y" target="_blank">
-    <img src="http://i3.ytimg.com/vi/yDaQAHXgQ9Y/hqdefault.jpg" alt="Thumbnail" width="560" height="315">
-  </a>
-</div>
+![](images/covidHashTableDemo.gif)
 
 
 <!-- ROADMAP -->
