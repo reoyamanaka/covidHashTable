@@ -12,10 +12,10 @@
     <img src="images/covidHashTable.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Parsing COVID-19 Data with a Hash Table and a List</h3>
+  <h3 align="center">Parsing COVID-19 API Data with a Hash Table and a List</h3>
 
   <p align="center">
-    Importing Toronto's COVID-19 data and parsing them to compare the efficiencies of a hash table and a list. 
+    Connecting to Toronto's COVID-19 data and parsing them to compare the efficiencies of a hash table and a list. 
     <br />
     <a href="https://github.com/reoyamanaka/covidHashTable.git"><strong>Explore the docs »</strong></a>
     <br />
