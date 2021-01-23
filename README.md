@@ -15,7 +15,7 @@
   <h3 align="center">Parsing COVID-19 API Data with a Hash Table and a List</h3>
 
   <p align="center">
-    Connecting to Toronto's COVID-19 data and parsing them to compare the efficiencies of a hash table and a list. 
+    Connecting to Toronto's COVID-19 API and parsing the data to compare the efficiencies of a hash table and a list. 
     <br />
     <a href="https://github.com/reoyamanaka/covidHashTable.git"><strong>Explore the docs »</strong></a>
     <br />
