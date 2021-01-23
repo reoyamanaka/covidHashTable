@@ -10,15 +10,16 @@ for obj in resp.json():
             fsasCases[obj["FSA"]] = 0
         else:
             fsasCases[obj["FSA"]] += 1
-
+fsaOfInterest = "M5V"
+print("Retrieving the number of ACTIVE COVID-19 cases in the FSA '%s'..."%fsaOfInterest)
 start_time = time.time()
 for fsa in fsasCases.keys():
-    if fsa == "M5V":
-        print(fsasCases[fsa])
-print("--- %s seconds ---" % (time.time() - start_time))
+    if fsa == fsaOfInterest: 
+        print("The number of ACTIVE cases in the FSA is %d."%fsasCases[fsa])
+print("This process, which used a list, took --- %s seconds ---." %(time.time() - start_time))
 
 start_time = time.time()
-print(fsasCases["M5V"])
-print("--- %s seconds ---" % (time.time() - start_time))
+print("The number of ACTIVE cases in the FSA is %d."%fsasCases[fsaOfInterest])
+print("This process, which used a hash table, took --- %s seconds ---." % (time.time() - start_time))
 
     
