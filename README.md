@@ -88,9 +88,9 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/reoyamanaka/covidHashTable.git
    ```
-2. Install requests
+2. Install requirements
      ```sh
-     pip install requests
+     pip install -r requirements.txt
      ```
 
 
